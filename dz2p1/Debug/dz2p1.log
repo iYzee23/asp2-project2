@@ -1,0 +1,8 @@
+﻿  bzvezda.cpp
+D:\Fakultet\II godina\III semestar\Algoritmi i strukture podataka 2\2 domaci\dz2p1\bzvezda.cpp(50,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Fakultet\II godina\III semestar\Algoritmi i strukture podataka 2\2 domaci\dz2p1\bzvezda.cpp(363,54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Fakultet\II godina\III semestar\Algoritmi i strukture podataka 2\2 domaci\dz2p1\bzvezda.cpp(364,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Fakultet\II godina\III semestar\Algoritmi i strukture podataka 2\2 domaci\dz2p1\bzvezda.cpp(586,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Fakultet\II godina\III semestar\Algoritmi i strukture podataka 2\2 domaci\dz2p1\bzvezda.cpp(587,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Fakultet\II godina\III semestar\Algoritmi i strukture podataka 2\2 domaci\dz2p1\bzvezda.cpp(588,54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  dz2p1.vcxproj -> D:\Fakultet\II godina\III semestar\Algoritmi i strukture podataka 2\2 domaci\Debug\dz2p1.exe
